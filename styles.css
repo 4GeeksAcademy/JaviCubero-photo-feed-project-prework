@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+}
+
+.photo-feed {
+    background-color: rgb(235, 234, 234);
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+
+.posts {
+    margin: auto;
+    width: 614px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.photo-head {
+    display: flex;
+    padding-left: 10px;
+    align-items: center;
+}
+
+#title {
+    font-weight: bold;
+    font-size: large;
+}
+
+#date {
+    margin-left: auto;
+    padding-right: 10px;
+    color: grey;
+}
+
+.comment-box p {
+    padding: 10px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
